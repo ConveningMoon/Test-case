@@ -1,0 +1,29 @@
+.post-item {
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.post-actions {
+    margin-top: 10px;
+}
+
+.post-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.post-content {
+    font-size: 1rem;
+    color: #333;
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.btn-custom {
+    margin-right: 5px;
+}
